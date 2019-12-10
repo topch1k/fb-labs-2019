@@ -198,6 +198,7 @@ int BigramToInt(string Bigram, map<char, int> CharIntMap) {
 }
 
 void IntToBigram(int BigramValue, string & Bigram, map<int, char> IntCharMap) {
+	Bigram.clear();
 	int AlphabetSize = IntCharMap.size();
 	Bigram.push_back(IntCharMap.find(BigramValue / AlphabetSize)->second);
 	Bigram.push_back(IntCharMap.find(BigramValue % AlphabetSize)->second);
@@ -246,12 +247,13 @@ void EqSolution(int diffY, int diffX, int AlphabetSize, map<int, int> & Solution
 		//int b = (BigramToInt(IteratorY->second, CharIntMap) - a * BigramToInt(IteratorX->second, CharIntMap)) % m;
 		int b = (Y - a * X) % m;
 		if (b < 0) b += m;
-		Solution.emplace(a, b);
+		cout << " a: " << a << " b: " << b << endl;
+ 		Solution.emplace(a, b);
 		return;
 	}
 	else if (GCD(diffX, m) != 1) {
 		if (diffY % GCD(diffX, m) != 0) {
-			//cout << "Equatation hasn't solution" << endl;
+			cout << "Equatation hasn't solution" << endl;
 		}
 		else if (diffY % GCD(diffX, m) == 0) {
 			// if diffY % d = 0 => Exist d solution;
@@ -267,6 +269,7 @@ void EqSolution(int diffY, int diffX, int AlphabetSize, map<int, int> & Solution
 				//int b = (BigramToInt(IteratorY->second, CharIntMap) - a * BigramToInt(IteratorX->second, CharIntMap)) % m;
 				int b = (Y - a * X) % m;
 				if (b < 0) b += m;
+				cout << " a: " << a << " b: " << b << endl;
 				Solution.emplace(a, b);
 			}
 
@@ -379,8 +382,15 @@ void FindKeys(string FilePath, map<int, string> TopMap, map<int, string> MostFre
 						if (j == 4) break;
 						else j++;
 					}
+					string Y, Y1, X, X1;
 					int diffY = DecBigramsArr[s] - DecBigramsArr[k];
+					IntToBigram(DecBigramsArr[s], Y, IntCharMap);
+					IntToBigram(DecBigramsArr[k], Y1, IntCharMap);
+					IntToBigram(MostFreqBigramsArr[i], X, IntCharMap);
+					IntToBigram(MostFreqBigramsArr[j], X1, IntCharMap);
+					cout << "Y = " << Y << " Y1 = " << Y1 << endl;
 					int diffX = MostFreqBigramsArr[i] - MostFreqBigramsArr[j];
+					cout << "X = " << X << " X1 = " << X1 << endl;
 					if (diffX < 0) diffX += pow(AlphabetSize, 2);
 					if (diffY < 0) diffY += pow(AlphabetSize, 2);
 					EqSolution(diffY, diffX, pow(AlphabetSize, 2), Solution, MostFreqBigramsArr[i], DecBigramsArr[s]);
@@ -404,6 +414,10 @@ void FindKeys(string FilePath, map<int, string> TopMap, map<int, string> MostFre
 		if (TextAnalyzer(MonoMap, LetterAmount)) {
 			cout << "Correct key: " << " a = " << it->first << " b = " << it->second << endl;
 			//return;
+		}
+		else {
+			cout << "Incorrect key: a = " << it->first << " b = " << it->second << endl;
+			cout << "Because of Coincidence Index or Entropy differ" << endl;
 		}
 		LetterAmount = 0;
 		MonoMap.clear();

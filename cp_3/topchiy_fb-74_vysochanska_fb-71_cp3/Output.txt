@@ -1,0 +1,2531 @@
+
+
+
+0 ве
+1 да
+2 эб
+3 ге
+4 ме
+
+
+Y = ве Y1 = да
+X = ст X1 = но
+ a: 908 b: 122
+Y = ве Y1 = да
+X = ст X1 = то
+ a: 536 b: 91
+Y = ве Y1 = да
+X = ст X1 = на
+ a: 250 b: 279
+Y = ве Y1 = да
+X = ст X1 = ен
+ a: 683 b: 700
+Y = ве Y1 = да
+X = но X1 = ст
+ a: 53 b: 69
+Y = ве Y1 = да
+X = но X1 = то
+Equatation hasn't solution
+Y = ве Y1 = да
+X = но X1 = на
+ a: 751 b: 186
+Y = ве Y1 = да
+X = но X1 = ен
+ a: 625 b: 834
+Y = ве Y1 = да
+X = то X1 = ст
+ a: 425 b: 100
+Y = ве Y1 = да
+X = то X1 = но
+Equatation hasn't solution
+Y = ве Y1 = да
+X = то X1 = на
+ a: 193 b: 186
+Y = ве Y1 = да
+X = то X1 = ен
+ a: 811 b: 338
+Y = ве Y1 = да
+X = на X1 = ст
+ a: 711 b: 873
+Y = ве Y1 = да
+X = на X1 = но
+ a: 210 b: 5
+Y = ве Y1 = да
+X = на X1 = то
+ a: 768 b: 5
+Y = ве Y1 = да
+X = на X1 = ен
+ a: 560 b: 222
+Y = ве Y1 = да
+X = ен X1 = ст
+ a: 278 b: 452
+Y = ве Y1 = да
+X = ен X1 = но
+ a: 336 b: 318
+Y = ве Y1 = да
+X = ен X1 = то
+ a: 150 b: 814
+Y = ве Y1 = да
+X = ен X1 = на
+ a: 401 b: 930
+Y = ве Y1 = эб
+X = ст X1 = но
+ a: 249 b: 824
+Y = ве Y1 = эб
+X = ст X1 = то
+ a: 528 b: 607
+Y = ве Y1 = эб
+X = ст X1 = на
+ a: 820 b: 32
+Y = ве Y1 = эб
+X = ст X1 = ен
+ a: 472 b: 375
+Y = ве Y1 = эб
+X = но X1 = ст
+ a: 712 b: 112
+Y = ве Y1 = эб
+X = но X1 = то
+Equatation hasn't solution
+Y = ве Y1 = эб
+X = но X1 = на
+ a: 80 b: 342
+Y = ве Y1 = эб
+X = но X1 = ен
+ a: 128 b: 507
+Y = ве Y1 = эб
+X = то X1 = ст
+ a: 433 b: 329
+Y = ве Y1 = эб
+X = то X1 = но
+Equatation hasn't solution
+Y = ве Y1 = эб
+X = то X1 = на
+ a: 18 b: 342
+Y = ве Y1 = эб
+X = то X1 = ен
+ a: 469 b: 879
+Y = ве Y1 = эб
+X = на X1 = ст
+ a: 141 b: 904
+Y = ве Y1 = эб
+X = на X1 = но
+ a: 881 b: 594
+Y = ве Y1 = эб
+X = на X1 = то
+ a: 943 b: 594
+Y = ве Y1 = эб
+X = на X1 = ен
+ a: 107 b: 191
+Y = ве Y1 = эб
+X = ен X1 = ст
+ a: 489 b: 561
+Y = ве Y1 = эб
+X = ен X1 = но
+ a: 833 b: 429
+Y = ве Y1 = эб
+X = ен X1 = то
+ a: 492 b: 57
+Y = ве Y1 = эб
+X = ен X1 = на
+ a: 854 b: 745
+Y = ве Y1 = ге
+X = ст X1 = но
+ a: 713 b: 687
+Y = ве Y1 = ге
+X = ст X1 = то
+ a: 713 b: 687
+Y = ве Y1 = ге
+X = ст X1 = на
+ a: 372 b: 98
+Y = ве Y1 = ге
+X = ст X1 = ен
+ a: 186 b: 563
+Y = ве Y1 = ге
+X = но X1 = ст
+ a: 248 b: 439
+Y = ве Y1 = ге
+X = но X1 = то
+ a: 25 b: 213
+ a: 56 b: 740
+ a: 87 b: 306
+ a: 118 b: 833
+ a: 149 b: 399
+ a: 180 b: 926
+ a: 211 b: 492
+ a: 242 b: 58
+ a: 273 b: 585
+ a: 304 b: 151
+ a: 335 b: 678
+ a: 366 b: 244
+ a: 397 b: 771
+ a: 428 b: 337
+ a: 459 b: 864
+ a: 490 b: 430
+ a: 521 b: 957
+ a: 552 b: 523
+ a: 583 b: 89
+ a: 614 b: 616
+ a: 645 b: 182
+ a: 676 b: 709
+ a: 707 b: 275
+ a: 738 b: 802
+ a: 769 b: 368
+ a: 800 b: 895
+ a: 831 b: 461
+ a: 862 b: 27
+ a: 893 b: 554
+ a: 924 b: 120
+ a: 955 b: 647
+Y = ве Y1 = ге
+X = но X1 = на
+ a: 341 b: 98
+Y = ве Y1 = ге
+X = но X1 = ен
+ a: 930 b: 501
+Y = ве Y1 = ге
+X = то X1 = ст
+ a: 248 b: 439
+Y = ве Y1 = ге
+X = то X1 = но
+ a: -25 b: 913
+ a: 6 b: 479
+ a: 37 b: 45
+ a: 68 b: 572
+ a: 99 b: 138
+ a: 130 b: 665
+ a: 161 b: 231
+ a: 192 b: 758
+ a: 223 b: 324
+ a: 254 b: 851
+ a: 285 b: 417
+ a: 316 b: 944
+ a: 347 b: 510
+ a: 378 b: 76
+ a: 409 b: 603
+ a: 440 b: 169
+ a: 471 b: 696
+ a: 502 b: 262
+ a: 533 b: 789
+ a: 564 b: 355
+ a: 595 b: 882
+ a: 626 b: 448
+ a: 657 b: 14
+ a: 688 b: 541
+ a: 719 b: 107
+ a: 750 b: 634
+ a: 781 b: 200
+ a: 812 b: 727
+ a: 843 b: 293
+ a: 874 b: 820
+ a: 905 b: 386
+Y = ве Y1 = ге
+X = то X1 = на
+ a: 341 b: 98
+Y = ве Y1 = ге
+X = то X1 = ен
+ a: 930 b: 501
+Y = ве Y1 = ге
+X = на X1 = ст
+ a: 589 b: 67
+Y = ве Y1 = ге
+X = на X1 = но
+ a: 620 b: 67
+Y = ве Y1 = ге
+X = на X1 = то
+ a: 620 b: 67
+Y = ве Y1 = ге
+X = на X1 = ен
+ a: 372 b: 67
+Y = ве Y1 = ге
+X = ен X1 = ст
+ a: 775 b: 563
+Y = ве Y1 = ге
+X = ен X1 = но
+ a: 31 b: 625
+Y = ве Y1 = ге
+X = ен X1 = то
+ a: 31 b: 625
+Y = ве Y1 = ге
+X = ен X1 = на
+ a: 589 b: 98
+Y = ве Y1 = ме
+X = ст X1 = но
+ a: 403 b: 501
+Y = ве Y1 = ме
+X = ст X1 = то
+ a: 403 b: 501
+Y = ве Y1 = ме
+X = ст X1 = на
+ a: 837 b: 377
+Y = ве Y1 = ме
+X = ст X1 = ен
+ a: 899 b: 222
+Y = ве Y1 = ме
+X = но X1 = ст
+ a: 558 b: 904
+Y = ве Y1 = ме
+X = но X1 = то
+ a: 2 b: 194
+ a: 33 b: 721
+ a: 64 b: 287
+ a: 95 b: 814
+ a: 126 b: 380
+ a: 157 b: 907
+ a: 188 b: 473
+ a: 219 b: 39
+ a: 250 b: 566
+ a: 281 b: 132
+ a: 312 b: 659
+ a: 343 b: 225
+ a: 374 b: 752
+ a: 405 b: 318
+ a: 436 b: 845
+ a: 467 b: 411
+ a: 498 b: 938
+ a: 529 b: 504
+ a: 560 b: 70
+ a: 591 b: 597
+ a: 622 b: 163
+ a: 653 b: 690
+ a: 684 b: 256
+ a: 715 b: 783
+ a: 746 b: 349
+ a: 777 b: 876
+ a: 808 b: 442
+ a: 839 b: 8
+ a: 870 b: 535
+ a: 901 b: 101
+ a: 932 b: 628
+Y = ве Y1 = ме
+X = но X1 = на
+ a: 527 b: 377
+Y = ве Y1 = ме
+X = но X1 = ен
+ a: 651 b: 563
+Y = ве Y1 = ме
+X = то X1 = ст
+ a: 558 b: 904
+Y = ве Y1 = ме
+X = то X1 = но
+ a: -2 b: 250
+ a: 29 b: 777
+ a: 60 b: 343
+ a: 91 b: 870
+ a: 122 b: 436
+ a: 153 b: 2
+ a: 184 b: 529
+ a: 215 b: 95
+ a: 246 b: 622
+ a: 277 b: 188
+ a: 308 b: 715
+ a: 339 b: 281
+ a: 370 b: 808
+ a: 401 b: 374
+ a: 432 b: 901
+ a: 463 b: 467
+ a: 494 b: 33
+ a: 525 b: 560
+ a: 556 b: 126
+ a: 587 b: 653
+ a: 618 b: 219
+ a: 649 b: 746
+ a: 680 b: 312
+ a: 711 b: 839
+ a: 742 b: 405
+ a: 773 b: 932
+ a: 804 b: 498
+ a: 835 b: 64
+ a: 866 b: 591
+ a: 897 b: 157
+ a: 928 b: 684
+Y = ве Y1 = ме
+X = то X1 = на
+ a: 527 b: 377
+Y = ве Y1 = ме
+X = то X1 = ен
+ a: 651 b: 563
+Y = ве Y1 = ме
+X = на X1 = ст
+ a: 124 b: 67
+Y = ве Y1 = ме
+X = на X1 = но
+ a: 434 b: 67
+Y = ве Y1 = ме
+X = на X1 = то
+ a: 434 b: 67
+Y = ве Y1 = ме
+X = на X1 = ен
+ a: 837 b: 67
+Y = ве Y1 = ме
+X = ен X1 = ст
+ a: 62 b: 222
+Y = ве Y1 = ме
+X = ен X1 = но
+ a: 310 b: 842
+Y = ве Y1 = ме
+X = ен X1 = то
+ a: 310 b: 842
+Y = ве Y1 = ме
+X = ен X1 = на
+ a: 124 b: 377
+Y = да Y1 = ве
+X = ст X1 = но
+ a: 53 b: 69
+Y = да Y1 = ве
+X = ст X1 = то
+ a: 425 b: 100
+Y = да Y1 = ве
+X = ст X1 = на
+ a: 711 b: 873
+Y = да Y1 = ве
+X = ст X1 = ен
+ a: 278 b: 452
+Y = да Y1 = ве
+X = но X1 = ст
+ a: 908 b: 122
+Y = да Y1 = ве
+X = но X1 = то
+Equatation hasn't solution
+Y = да Y1 = ве
+X = но X1 = на
+ a: 210 b: 5
+Y = да Y1 = ве
+X = но X1 = ен
+ a: 336 b: 318
+Y = да Y1 = ве
+X = то X1 = ст
+ a: 536 b: 91
+Y = да Y1 = ве
+X = то X1 = но
+Equatation hasn't solution
+Y = да Y1 = ве
+X = то X1 = на
+ a: 768 b: 5
+Y = да Y1 = ве
+X = то X1 = ен
+ a: 150 b: 814
+Y = да Y1 = ве
+X = на X1 = ст
+ a: 250 b: 279
+Y = да Y1 = ве
+X = на X1 = но
+ a: 751 b: 186
+Y = да Y1 = ве
+X = на X1 = то
+ a: 193 b: 186
+Y = да Y1 = ве
+X = на X1 = ен
+ a: 401 b: 930
+Y = да Y1 = ве
+X = ен X1 = ст
+ a: 683 b: 700
+Y = да Y1 = ве
+X = ен X1 = но
+ a: 625 b: 834
+Y = да Y1 = ве
+X = ен X1 = то
+ a: 811 b: 338
+Y = да Y1 = ве
+X = ен X1 = на
+ a: 560 b: 222
+Y = да Y1 = эб
+X = ст X1 = но
+ a: 302 b: 826
+Y = да Y1 = эб
+X = ст X1 = то
+ a: 953 b: 640
+Y = да Y1 = эб
+X = ст X1 = на
+ a: 570 b: 838
+Y = да Y1 = эб
+X = ст X1 = ен
+ a: 750 b: 760
+Y = да Y1 = эб
+X = но X1 = ст
+ a: 659 b: 167
+Y = да Y1 = эб
+X = но X1 = то
+Equatation hasn't solution
+Y = да Y1 = эб
+X = но X1 = на
+ a: 290 b: 280
+Y = да Y1 = эб
+X = но X1 = ен
+ a: 464 b: 758
+Y = да Y1 = эб
+X = то X1 = ст
+ a: 8 b: 353
+Y = да Y1 = эб
+X = то X1 = но
+Equatation hasn't solution
+Y = да Y1 = эб
+X = то X1 = на
+ a: 786 b: 280
+Y = да Y1 = эб
+X = то X1 = ен
+ a: 619 b: 665
+Y = да Y1 = эб
+X = на X1 = ст
+ a: 391 b: 155
+Y = да Y1 = эб
+X = на X1 = но
+ a: 671 b: 713
+Y = да Y1 = эб
+X = на X1 = то
+ a: 175 b: 713
+Y = да Y1 = эб
+X = на X1 = ен
+ a: 508 b: 93
+Y = да Y1 = эб
+X = ен X1 = ст
+ a: 211 b: 233
+Y = да Y1 = эб
+X = ен X1 = но
+ a: 497 b: 235
+Y = да Y1 = эб
+X = ен X1 = то
+ a: 342 b: 328
+Y = да Y1 = эб
+X = ен X1 = на
+ a: 453 b: 900
+Y = да Y1 = ге
+X = ст X1 = но
+ a: 766 b: 689
+Y = да Y1 = ге
+X = ст X1 = то
+ a: 177 b: 720
+Y = да Y1 = ге
+X = ст X1 = на
+ a: 122 b: 904
+Y = да Y1 = ге
+X = ст X1 = ен
+ a: 464 b: 948
+Y = да Y1 = ге
+X = но X1 = ст
+ a: 195 b: 494
+Y = да Y1 = ге
+X = но X1 = то
+Equatation hasn't solution
+Y = да Y1 = ге
+X = но X1 = на
+ a: 551 b: 36
+Y = да Y1 = ге
+X = но X1 = ен
+ a: 305 b: 752
+Y = да Y1 = ге
+X = то X1 = ст
+ a: 784 b: 463
+Y = да Y1 = ге
+X = то X1 = но
+Equatation hasn't solution
+Y = да Y1 = ге
+X = то X1 = на
+ a: 148 b: 36
+Y = да Y1 = ге
+X = то X1 = ен
+ a: 119 b: 287
+Y = да Y1 = ге
+X = на X1 = ст
+ a: 839 b: 279
+Y = да Y1 = ге
+X = на X1 = но
+ a: 410 b: 186
+Y = да Y1 = ге
+X = на X1 = то
+ a: 813 b: 186
+Y = да Y1 = ге
+X = на X1 = ен
+ a: 773 b: 930
+Y = да Y1 = ге
+X = ен X1 = ст
+ a: 497 b: 235
+Y = да Y1 = ге
+X = ен X1 = но
+ a: 656 b: 431
+Y = да Y1 = ге
+X = ен X1 = то
+ a: 842 b: 896
+Y = да Y1 = ге
+X = ен X1 = на
+ a: 188 b: 253
+Y = да Y1 = ме
+X = ст X1 = но
+ a: 456 b: 503
+Y = да Y1 = ме
+X = ст X1 = то
+ a: 828 b: 534
+Y = да Y1 = ме
+X = ст X1 = на
+ a: 587 b: 222
+Y = да Y1 = ме
+X = ст X1 = ен
+ a: 216 b: 607
+Y = да Y1 = ме
+X = но X1 = ст
+ a: 505 b: 959
+Y = да Y1 = ме
+X = но X1 = то
+Equatation hasn't solution
+Y = да Y1 = ме
+X = но X1 = на
+ a: 737 b: 315
+Y = да Y1 = ме
+X = но X1 = ен
+ a: 26 b: 814
+Y = да Y1 = ме
+X = то X1 = ст
+ a: 133 b: 928
+Y = да Y1 = ме
+X = то X1 = но
+Equatation hasn't solution
+Y = да Y1 = ме
+X = то X1 = на
+ a: 334 b: 315
+Y = да Y1 = ме
+X = то X1 = ен
+ a: 801 b: 349
+Y = да Y1 = ме
+X = на X1 = ст
+ a: 374 b: 279
+Y = да Y1 = ме
+X = на X1 = но
+ a: 224 b: 186
+Y = да Y1 = ме
+X = на X1 = то
+ a: 627 b: 186
+Y = да Y1 = ме
+X = на X1 = ен
+ a: 277 b: 930
+Y = да Y1 = ме
+X = ен X1 = ст
+ a: 745 b: 855
+Y = да Y1 = ме
+X = ен X1 = но
+ a: 935 b: 648
+Y = да Y1 = ме
+X = ен X1 = то
+ a: 160 b: 152
+Y = да Y1 = ме
+X = ен X1 = на
+ a: 684 b: 532
+Y = эб Y1 = ве
+X = ст X1 = но
+ a: 712 b: 112
+Y = эб Y1 = ве
+X = ст X1 = то
+ a: 433 b: 329
+Y = эб Y1 = ве
+X = ст X1 = на
+ a: 141 b: 904
+Y = эб Y1 = ве
+X = ст X1 = ен
+ a: 489 b: 561
+Y = эб Y1 = ве
+X = но X1 = ст
+ a: 249 b: 824
+Y = эб Y1 = ве
+X = но X1 = то
+Equatation hasn't solution
+Y = эб Y1 = ве
+X = но X1 = на
+ a: 881 b: 594
+Y = эб Y1 = ве
+X = но X1 = ен
+ a: 833 b: 429
+Y = эб Y1 = ве
+X = то X1 = ст
+ a: 528 b: 607
+Y = эб Y1 = ве
+X = то X1 = но
+Equatation hasn't solution
+Y = эб Y1 = ве
+X = то X1 = на
+ a: 943 b: 594
+Y = эб Y1 = ве
+X = то X1 = ен
+ a: 492 b: 57
+Y = эб Y1 = ве
+X = на X1 = ст
+ a: 820 b: 32
+Y = эб Y1 = ве
+X = на X1 = но
+ a: 80 b: 342
+Y = эб Y1 = ве
+X = на X1 = то
+ a: 18 b: 342
+Y = эб Y1 = ве
+X = на X1 = ен
+ a: 854 b: 745
+Y = эб Y1 = ве
+X = ен X1 = ст
+ a: 472 b: 375
+Y = эб Y1 = ве
+X = ен X1 = но
+ a: 128 b: 507
+Y = эб Y1 = ве
+X = ен X1 = то
+ a: 469 b: 879
+Y = эб Y1 = ве
+X = ен X1 = на
+ a: 107 b: 191
+Y = эб Y1 = да
+X = ст X1 = но
+ a: 659 b: 167
+Y = эб Y1 = да
+X = ст X1 = то
+ a: 8 b: 353
+Y = эб Y1 = да
+X = ст X1 = на
+ a: 391 b: 155
+Y = эб Y1 = да
+X = ст X1 = ен
+ a: 211 b: 233
+Y = эб Y1 = да
+X = но X1 = ст
+ a: 302 b: 826
+Y = эб Y1 = да
+X = но X1 = то
+Equatation hasn't solution
+Y = эб Y1 = да
+X = но X1 = на
+ a: 671 b: 713
+Y = эб Y1 = да
+X = но X1 = ен
+ a: 497 b: 235
+Y = эб Y1 = да
+X = то X1 = ст
+ a: 953 b: 640
+Y = эб Y1 = да
+X = то X1 = но
+Equatation hasn't solution
+Y = эб Y1 = да
+X = то X1 = на
+ a: 175 b: 713
+Y = эб Y1 = да
+X = то X1 = ен
+ a: 342 b: 328
+Y = эб Y1 = да
+X = на X1 = ст
+ a: 570 b: 838
+Y = эб Y1 = да
+X = на X1 = но
+ a: 290 b: 280
+Y = эб Y1 = да
+X = на X1 = то
+ a: 786 b: 280
+Y = эб Y1 = да
+X = на X1 = ен
+ a: 453 b: 900
+Y = эб Y1 = да
+X = ен X1 = ст
+ a: 750 b: 760
+Y = эб Y1 = да
+X = ен X1 = но
+ a: 464 b: 758
+Y = эб Y1 = да
+X = ен X1 = то
+ a: 619 b: 665
+Y = эб Y1 = да
+X = ен X1 = на
+ a: 508 b: 93
+Y = эб Y1 = ге
+X = ст X1 = но
+ a: 464 b: 732
+Y = эб Y1 = ге
+X = ст X1 = то
+ a: 185 b: 949
+Y = эб Y1 = ге
+X = ст X1 = на
+ a: 513 b: 935
+Y = эб Y1 = ге
+X = ст X1 = ен
+ a: 675 b: 96
+Y = эб Y1 = ге
+X = но X1 = ст
+ a: 497 b: 235
+Y = эб Y1 = ге
+X = но X1 = то
+Equatation hasn't solution
+Y = эб Y1 = ге
+X = но X1 = на
+ a: 261 b: 625
+Y = эб Y1 = ге
+X = но X1 = ен
+ a: 802 b: 863
+Y = эб Y1 = ге
+X = то X1 = ст
+ a: 776 b: 18
+Y = эб Y1 = ге
+X = то X1 = но
+Equatation hasn't solution
+Y = эб Y1 = ге
+X = то X1 = на
+ a: 323 b: 625
+Y = эб Y1 = ге
+X = то X1 = ен
+ a: 461 b: 491
+Y = эб Y1 = ге
+X = на X1 = ст
+ a: 448 b: 32
+Y = эб Y1 = ге
+X = на X1 = но
+ a: 700 b: 342
+Y = эб Y1 = ге
+X = на X1 = то
+ a: 638 b: 342
+Y = эб Y1 = ге
+X = на X1 = ен
+ a: 265 b: 745
+Y = эб Y1 = ге
+X = ен X1 = ст
+ a: 286 b: 871
+Y = эб Y1 = ге
+X = ен X1 = но
+ a: 159 b: 104
+Y = эб Y1 = ге
+X = ен X1 = то
+ a: 500 b: 476
+Y = эб Y1 = ге
+X = ен X1 = на
+ a: 696 b: 222
+Y = эб Y1 = ме
+X = ст X1 = но
+ a: 154 b: 546
+Y = эб Y1 = ме
+X = ст X1 = то
+ a: 836 b: 763
+Y = эб Y1 = ме
+X = ст X1 = на
+ a: 17 b: 253
+Y = эб Y1 = ме
+X = ст X1 = ен
+ a: 427 b: 716
+Y = эб Y1 = ме
+X = но X1 = ст
+ a: 807 b: 700
+Y = эб Y1 = ме
+X = но X1 = то
+Equatation hasn't solution
+Y = эб Y1 = ме
+X = но X1 = на
+ a: 447 b: 904
+Y = эб Y1 = ме
+X = но X1 = ен
+ a: 523 b: 925
+Y = эб Y1 = ме
+X = то X1 = ст
+ a: 125 b: 483
+Y = эб Y1 = ме
+X = то X1 = но
+Equatation hasn't solution
+Y = эб Y1 = ме
+X = то X1 = на
+ a: 509 b: 904
+Y = эб Y1 = ме
+X = то X1 = ен
+ a: 182 b: 553
+Y = эб Y1 = ме
+X = на X1 = ст
+ a: 944 b: 32
+Y = эб Y1 = ме
+X = на X1 = но
+ a: 514 b: 342
+Y = эб Y1 = ме
+X = на X1 = то
+ a: 452 b: 342
+Y = эб Y1 = ме
+X = на X1 = ен
+ a: 730 b: 745
+Y = эб Y1 = ме
+X = ен X1 = ст
+ a: 534 b: 530
+Y = эб Y1 = ме
+X = ен X1 = но
+ a: 438 b: 321
+Y = эб Y1 = ме
+X = ен X1 = то
+ a: 779 b: 693
+Y = эб Y1 = ме
+X = ен X1 = на
+ a: 231 b: 501
+Y = ге Y1 = ве
+X = ст X1 = но
+ a: 248 b: 439
+Y = ге Y1 = ве
+X = ст X1 = то
+ a: 248 b: 439
+Y = ге Y1 = ве
+X = ст X1 = на
+ a: 589 b: 67
+Y = ге Y1 = ве
+X = ст X1 = ен
+ a: 775 b: 563
+Y = ге Y1 = ве
+X = но X1 = ст
+ a: 713 b: 687
+Y = ге Y1 = ве
+X = но X1 = то
+ a: 6 b: 479
+ a: 37 b: 45
+ a: 68 b: 572
+ a: 99 b: 138
+ a: 130 b: 665
+ a: 161 b: 231
+ a: 192 b: 758
+ a: 223 b: 324
+ a: 254 b: 851
+ a: 285 b: 417
+ a: 316 b: 944
+ a: 347 b: 510
+ a: 378 b: 76
+ a: 409 b: 603
+ a: 440 b: 169
+ a: 471 b: 696
+ a: 502 b: 262
+ a: 533 b: 789
+ a: 564 b: 355
+ a: 595 b: 882
+ a: 626 b: 448
+ a: 657 b: 14
+ a: 688 b: 541
+ a: 719 b: 107
+ a: 750 b: 634
+ a: 781 b: 200
+ a: 812 b: 727
+ a: 843 b: 293
+ a: 874 b: 820
+ a: 905 b: 386
+ a: 936 b: 913
+Y = ге Y1 = ве
+X = но X1 = на
+ a: 620 b: 67
+Y = ге Y1 = ве
+X = но X1 = ен
+ a: 31 b: 625
+Y = ге Y1 = ве
+X = то X1 = ст
+ a: 713 b: 687
+Y = ге Y1 = ве
+X = то X1 = но
+ a: -6 b: 647
+ a: 25 b: 213
+ a: 56 b: 740
+ a: 87 b: 306
+ a: 118 b: 833
+ a: 149 b: 399
+ a: 180 b: 926
+ a: 211 b: 492
+ a: 242 b: 58
+ a: 273 b: 585
+ a: 304 b: 151
+ a: 335 b: 678
+ a: 366 b: 244
+ a: 397 b: 771
+ a: 428 b: 337
+ a: 459 b: 864
+ a: 490 b: 430
+ a: 521 b: 957
+ a: 552 b: 523
+ a: 583 b: 89
+ a: 614 b: 616
+ a: 645 b: 182
+ a: 676 b: 709
+ a: 707 b: 275
+ a: 738 b: 802
+ a: 769 b: 368
+ a: 800 b: 895
+ a: 831 b: 461
+ a: 862 b: 27
+ a: 893 b: 554
+ a: 924 b: 120
+Y = ге Y1 = ве
+X = то X1 = на
+ a: 620 b: 67
+Y = ге Y1 = ве
+X = то X1 = ен
+ a: 31 b: 625
+Y = ге Y1 = ве
+X = на X1 = ст
+ a: 372 b: 98
+Y = ге Y1 = ве
+X = на X1 = но
+ a: 341 b: 98
+Y = ге Y1 = ве
+X = на X1 = то
+ a: 341 b: 98
+Y = ге Y1 = ве
+X = на X1 = ен
+ a: 589 b: 98
+Y = ге Y1 = ве
+X = ен X1 = ст
+ a: 186 b: 563
+Y = ге Y1 = ве
+X = ен X1 = но
+ a: 930 b: 501
+Y = ге Y1 = ве
+X = ен X1 = то
+ a: 930 b: 501
+Y = ге Y1 = ве
+X = ен X1 = на
+ a: 372 b: 67
+Y = ге Y1 = да
+X = ст X1 = но
+ a: 195 b: 494
+Y = ге Y1 = да
+X = ст X1 = то
+ a: 784 b: 463
+Y = ге Y1 = да
+X = ст X1 = на
+ a: 839 b: 279
+Y = ге Y1 = да
+X = ст X1 = ен
+ a: 497 b: 235
+Y = ге Y1 = да
+X = но X1 = ст
+ a: 766 b: 689
+Y = ге Y1 = да
+X = но X1 = то
+Equatation hasn't solution
+Y = ге Y1 = да
+X = но X1 = на
+ a: 410 b: 186
+Y = ге Y1 = да
+X = но X1 = ен
+ a: 656 b: 431
+Y = ге Y1 = да
+X = то X1 = ст
+ a: 177 b: 720
+Y = ге Y1 = да
+X = то X1 = но
+Equatation hasn't solution
+Y = ге Y1 = да
+X = то X1 = на
+ a: 813 b: 186
+Y = ге Y1 = да
+X = то X1 = ен
+ a: 842 b: 896
+Y = ге Y1 = да
+X = на X1 = ст
+ a: 122 b: 904
+Y = ге Y1 = да
+X = на X1 = но
+ a: 551 b: 36
+Y = ге Y1 = да
+X = на X1 = то
+ a: 148 b: 36
+Y = ге Y1 = да
+X = на X1 = ен
+ a: 188 b: 253
+Y = ге Y1 = да
+X = ен X1 = ст
+ a: 464 b: 948
+Y = ге Y1 = да
+X = ен X1 = но
+ a: 305 b: 752
+Y = ге Y1 = да
+X = ен X1 = то
+ a: 119 b: 287
+Y = ге Y1 = да
+X = ен X1 = на
+ a: 773 b: 930
+Y = ге Y1 = эб
+X = ст X1 = но
+ a: 497 b: 235
+Y = ге Y1 = эб
+X = ст X1 = то
+ a: 776 b: 18
+Y = ге Y1 = эб
+X = ст X1 = на
+ a: 448 b: 32
+Y = ге Y1 = эб
+X = ст X1 = ен
+ a: 286 b: 871
+Y = ге Y1 = эб
+X = но X1 = ст
+ a: 464 b: 732
+Y = ге Y1 = эб
+X = но X1 = то
+Equatation hasn't solution
+Y = ге Y1 = эб
+X = но X1 = на
+ a: 700 b: 342
+Y = ге Y1 = эб
+X = но X1 = ен
+ a: 159 b: 104
+Y = ге Y1 = эб
+X = то X1 = ст
+ a: 185 b: 949
+Y = ге Y1 = эб
+X = то X1 = но
+Equatation hasn't solution
+Y = ге Y1 = эб
+X = то X1 = на
+ a: 638 b: 342
+Y = ге Y1 = эб
+X = то X1 = ен
+ a: 500 b: 476
+Y = ге Y1 = эб
+X = на X1 = ст
+ a: 513 b: 935
+Y = ге Y1 = эб
+X = на X1 = но
+ a: 261 b: 625
+Y = ге Y1 = эб
+X = на X1 = то
+ a: 323 b: 625
+Y = ге Y1 = эб
+X = на X1 = ен
+ a: 696 b: 222
+Y = ге Y1 = эб
+X = ен X1 = ст
+ a: 675 b: 96
+Y = ге Y1 = эб
+X = ен X1 = но
+ a: 802 b: 863
+Y = ге Y1 = эб
+X = ен X1 = то
+ a: 461 b: 491
+Y = ге Y1 = эб
+X = ен X1 = на
+ a: 265 b: 745
+Y = ге Y1 = ме
+X = ст X1 = но
+ a: 651 b: 873
+Y = ге Y1 = ме
+X = ст X1 = то
+ a: 651 b: 873
+Y = ге Y1 = ме
+X = ст X1 = на
+ a: 465 b: 377
+Y = ге Y1 = ме
+X = ст X1 = ен
+ a: 713 b: 718
+Y = ге Y1 = ме
+X = но X1 = ст
+ a: 310 b: 563
+Y = ге Y1 = ме
+X = но X1 = то
+ a: 8 b: 606
+ a: 39 b: 172
+ a: 70 b: 699
+ a: 101 b: 265
+ a: 132 b: 792
+ a: 163 b: 358
+ a: 194 b: 885
+ a: 225 b: 451
+ a: 256 b: 17
+ a: 287 b: 544
+ a: 318 b: 110
+ a: 349 b: 637
+ a: 380 b: 203
+ a: 411 b: 730
+ a: 442 b: 296
+ a: 473 b: 823
+ a: 504 b: 389
+ a: 535 b: 916
+ a: 566 b: 482
+ a: 597 b: 48
+ a: 628 b: 575
+ a: 659 b: 141
+ a: 690 b: 668
+ a: 721 b: 234
+ a: 752 b: 761
+ a: 783 b: 327
+ a: 814 b: 854
+ a: 845 b: 420
+ a: 876 b: 947
+ a: 907 b: 513
+ a: 938 b: 79
+Y = ге Y1 = ме
+X = но X1 = на
+ a: 186 b: 377
+Y = ге Y1 = ме
+X = но X1 = ен
+ a: 682 b: 160
+Y = ге Y1 = ме
+X = то X1 = ст
+ a: 310 b: 563
+Y = ге Y1 = ме
+X = то X1 = но
+ a: -8 b: 830
+ a: 23 b: 396
+ a: 54 b: 923
+ a: 85 b: 489
+ a: 116 b: 55
+ a: 147 b: 582
+ a: 178 b: 148
+ a: 209 b: 675
+ a: 240 b: 241
+ a: 271 b: 768
+ a: 302 b: 334
+ a: 333 b: 861
+ a: 364 b: 427
+ a: 395 b: 954
+ a: 426 b: 520
+ a: 457 b: 86
+ a: 488 b: 613
+ a: 519 b: 179
+ a: 550 b: 706
+ a: 581 b: 272
+ a: 612 b: 799
+ a: 643 b: 365
+ a: 674 b: 892
+ a: 705 b: 458
+ a: 736 b: 24
+ a: 767 b: 551
+ a: 798 b: 117
+ a: 829 b: 644
+ a: 860 b: 210
+ a: 891 b: 737
+ a: 922 b: 303
+Y = ге Y1 = ме
+X = то X1 = на
+ a: 186 b: 377
+Y = ге Y1 = ме
+X = то X1 = ен
+ a: 682 b: 160
+Y = ге Y1 = ме
+X = на X1 = ст
+ a: 496 b: 98
+Y = ге Y1 = ме
+X = на X1 = но
+ a: 775 b: 98
+Y = ге Y1 = ме
+X = на X1 = то
+ a: 775 b: 98
+Y = ге Y1 = ме
+X = на X1 = ен
+ a: 465 b: 98
+Y = ге Y1 = ме
+X = ен X1 = ст
+ a: 248 b: 718
+Y = ге Y1 = ме
+X = ен X1 = но
+ a: 279 b: 315
+Y = ге Y1 = ме
+X = ен X1 = то
+ a: 279 b: 315
+Y = ге Y1 = ме
+X = ен X1 = на
+ a: 496 b: 377
+Y = ме Y1 = ве
+X = ст X1 = но
+ a: 558 b: 904
+Y = ме Y1 = ве
+X = ст X1 = то
+ a: 558 b: 904
+Y = ме Y1 = ве
+X = ст X1 = на
+ a: 124 b: 67
+Y = ме Y1 = ве
+X = ст X1 = ен
+ a: 62 b: 222
+Y = ме Y1 = ве
+X = но X1 = ст
+ a: 403 b: 501
+Y = ме Y1 = ве
+X = но X1 = то
+ a: 29 b: 777
+ a: 60 b: 343
+ a: 91 b: 870
+ a: 122 b: 436
+ a: 153 b: 2
+ a: 184 b: 529
+ a: 215 b: 95
+ a: 246 b: 622
+ a: 277 b: 188
+ a: 308 b: 715
+ a: 339 b: 281
+ a: 370 b: 808
+ a: 401 b: 374
+ a: 432 b: 901
+ a: 463 b: 467
+ a: 494 b: 33
+ a: 525 b: 560
+ a: 556 b: 126
+ a: 587 b: 653
+ a: 618 b: 219
+ a: 649 b: 746
+ a: 680 b: 312
+ a: 711 b: 839
+ a: 742 b: 405
+ a: 773 b: 932
+ a: 804 b: 498
+ a: 835 b: 64
+ a: 866 b: 591
+ a: 897 b: 157
+ a: 928 b: 684
+ a: 959 b: 250
+Y = ме Y1 = ве
+X = но X1 = на
+ a: 434 b: 67
+Y = ме Y1 = ве
+X = но X1 = ен
+ a: 310 b: 842
+Y = ме Y1 = ве
+X = то X1 = ст
+ a: 403 b: 501
+Y = ме Y1 = ве
+X = то X1 = но
+ a: -29 b: 628
+ a: 2 b: 194
+ a: 33 b: 721
+ a: 64 b: 287
+ a: 95 b: 814
+ a: 126 b: 380
+ a: 157 b: 907
+ a: 188 b: 473
+ a: 219 b: 39
+ a: 250 b: 566
+ a: 281 b: 132
+ a: 312 b: 659
+ a: 343 b: 225
+ a: 374 b: 752
+ a: 405 b: 318
+ a: 436 b: 845
+ a: 467 b: 411
+ a: 498 b: 938
+ a: 529 b: 504
+ a: 560 b: 70
+ a: 591 b: 597
+ a: 622 b: 163
+ a: 653 b: 690
+ a: 684 b: 256
+ a: 715 b: 783
+ a: 746 b: 349
+ a: 777 b: 876
+ a: 808 b: 442
+ a: 839 b: 8
+ a: 870 b: 535
+ a: 901 b: 101
+Y = ме Y1 = ве
+X = то X1 = на
+ a: 434 b: 67
+Y = ме Y1 = ве
+X = то X1 = ен
+ a: 310 b: 842
+Y = ме Y1 = ве
+X = на X1 = ст
+ a: 837 b: 377
+Y = ме Y1 = ве
+X = на X1 = но
+ a: 527 b: 377
+Y = ме Y1 = ве
+X = на X1 = то
+ a: 527 b: 377
+Y = ме Y1 = ве
+X = на X1 = ен
+ a: 124 b: 377
+Y = ме Y1 = ве
+X = ен X1 = ст
+ a: 899 b: 222
+Y = ме Y1 = ве
+X = ен X1 = но
+ a: 651 b: 563
+Y = ме Y1 = ве
+X = ен X1 = то
+ a: 651 b: 563
+Y = ме Y1 = ве
+X = ен X1 = на
+ a: 837 b: 67
+Y = ме Y1 = да
+X = ст X1 = но
+ a: 505 b: 959
+Y = ме Y1 = да
+X = ст X1 = то
+ a: 133 b: 928
+Y = ме Y1 = да
+X = ст X1 = на
+ a: 374 b: 279
+Y = ме Y1 = да
+X = ст X1 = ен
+ a: 745 b: 855
+Y = ме Y1 = да
+X = но X1 = ст
+ a: 456 b: 503
+Y = ме Y1 = да
+X = но X1 = то
+Equatation hasn't solution
+Y = ме Y1 = да
+X = но X1 = на
+ a: 224 b: 186
+Y = ме Y1 = да
+X = но X1 = ен
+ a: 935 b: 648
+Y = ме Y1 = да
+X = то X1 = ст
+ a: 828 b: 534
+Y = ме Y1 = да
+X = то X1 = но
+Equatation hasn't solution
+Y = ме Y1 = да
+X = то X1 = на
+ a: 627 b: 186
+Y = ме Y1 = да
+X = то X1 = ен
+ a: 160 b: 152
+Y = ме Y1 = да
+X = на X1 = ст
+ a: 587 b: 222
+Y = ме Y1 = да
+X = на X1 = но
+ a: 737 b: 315
+Y = ме Y1 = да
+X = на X1 = то
+ a: 334 b: 315
+Y = ме Y1 = да
+X = на X1 = ен
+ a: 684 b: 532
+Y = ме Y1 = да
+X = ен X1 = ст
+ a: 216 b: 607
+Y = ме Y1 = да
+X = ен X1 = но
+ a: 26 b: 814
+Y = ме Y1 = да
+X = ен X1 = то
+ a: 801 b: 349
+Y = ме Y1 = да
+X = ен X1 = на
+ a: 277 b: 930
+Y = ме Y1 = эб
+X = ст X1 = но
+ a: 807 b: 700
+Y = ме Y1 = эб
+X = ст X1 = то
+ a: 125 b: 483
+Y = ме Y1 = эб
+X = ст X1 = на
+ a: 944 b: 32
+Y = ме Y1 = эб
+X = ст X1 = ен
+ a: 534 b: 530
+Y = ме Y1 = эб
+X = но X1 = ст
+ a: 154 b: 546
+Y = ме Y1 = эб
+X = но X1 = то
+Equatation hasn't solution
+Y = ме Y1 = эб
+X = но X1 = на
+ a: 514 b: 342
+Y = ме Y1 = эб
+X = но X1 = ен
+ a: 438 b: 321
+Y = ме Y1 = эб
+X = то X1 = ст
+ a: 836 b: 763
+Y = ме Y1 = эб
+X = то X1 = но
+Equatation hasn't solution
+Y = ме Y1 = эб
+X = то X1 = на
+ a: 452 b: 342
+Y = ме Y1 = эб
+X = то X1 = ен
+ a: 779 b: 693
+Y = ме Y1 = эб
+X = на X1 = ст
+ a: 17 b: 253
+Y = ме Y1 = эб
+X = на X1 = но
+ a: 447 b: 904
+Y = ме Y1 = эб
+X = на X1 = то
+ a: 509 b: 904
+Y = ме Y1 = эб
+X = на X1 = ен
+ a: 231 b: 501
+Y = ме Y1 = эб
+X = ен X1 = ст
+ a: 427 b: 716
+Y = ме Y1 = эб
+X = ен X1 = но
+ a: 523 b: 925
+Y = ме Y1 = эб
+X = ен X1 = то
+ a: 182 b: 553
+Y = ме Y1 = эб
+X = ен X1 = на
+ a: 730 b: 745
+Y = ме Y1 = ге
+X = ст X1 = но
+ a: 310 b: 563
+Y = ме Y1 = ге
+X = ст X1 = то
+ a: 310 b: 563
+Y = ме Y1 = ге
+X = ст X1 = на
+ a: 496 b: 98
+Y = ме Y1 = ге
+X = ст X1 = ен
+ a: 248 b: 718
+Y = ме Y1 = ге
+X = но X1 = ст
+ a: 651 b: 873
+Y = ме Y1 = ге
+X = но X1 = то
+ a: 23 b: 396
+ a: 54 b: 923
+ a: 85 b: 489
+ a: 116 b: 55
+ a: 147 b: 582
+ a: 178 b: 148
+ a: 209 b: 675
+ a: 240 b: 241
+ a: 271 b: 768
+ a: 302 b: 334
+ a: 333 b: 861
+ a: 364 b: 427
+ a: 395 b: 954
+ a: 426 b: 520
+ a: 457 b: 86
+ a: 488 b: 613
+ a: 519 b: 179
+ a: 550 b: 706
+ a: 581 b: 272
+ a: 612 b: 799
+ a: 643 b: 365
+ a: 674 b: 892
+ a: 705 b: 458
+ a: 736 b: 24
+ a: 767 b: 551
+ a: 798 b: 117
+ a: 829 b: 644
+ a: 860 b: 210
+ a: 891 b: 737
+ a: 922 b: 303
+ a: 953 b: 830
+Y = ме Y1 = ге
+X = но X1 = на
+ a: 775 b: 98
+Y = ме Y1 = ге
+X = но X1 = ен
+ a: 279 b: 315
+Y = ме Y1 = ге
+X = то X1 = ст
+ a: 651 b: 873
+Y = ме Y1 = ге
+X = то X1 = но
+ a: -23 b: 79
+ a: 8 b: 606
+ a: 39 b: 172
+ a: 70 b: 699
+ a: 101 b: 265
+ a: 132 b: 792
+ a: 163 b: 358
+ a: 194 b: 885
+ a: 225 b: 451
+ a: 256 b: 17
+ a: 287 b: 544
+ a: 318 b: 110
+ a: 349 b: 637
+ a: 380 b: 203
+ a: 411 b: 730
+ a: 442 b: 296
+ a: 473 b: 823
+ a: 504 b: 389
+ a: 535 b: 916
+ a: 566 b: 482
+ a: 597 b: 48
+ a: 628 b: 575
+ a: 659 b: 141
+ a: 690 b: 668
+ a: 721 b: 234
+ a: 752 b: 761
+ a: 783 b: 327
+ a: 814 b: 854
+ a: 845 b: 420
+ a: 876 b: 947
+ a: 907 b: 513
+Y = ме Y1 = ге
+X = то X1 = на
+ a: 775 b: 98
+Y = ме Y1 = ге
+X = то X1 = ен
+ a: 279 b: 315
+Y = ме Y1 = ге
+X = на X1 = ст
+ a: 465 b: 377
+Y = ме Y1 = ге
+X = на X1 = но
+ a: 186 b: 377
+Y = ме Y1 = ге
+X = на X1 = то
+ a: 186 b: 377
+Y = ме Y1 = ге
+X = на X1 = ен
+ a: 496 b: 377
+Y = ме Y1 = ге
+X = ен X1 = ст
+ a: 713 b: 718
+Y = ме Y1 = ге
+X = ен X1 = но
+ a: 682 b: 160
+Y = ме Y1 = ге
+X = ен X1 = то
+ a: 682 b: 160
+Y = ме Y1 = ге
+X = ен X1 = на
+ a: 465 b: 98
+-29             628
+Incorrect key: a = -29 b = 628
+Because of Coincidence Index or Entropy differ
+-25             913
+Incorrect key: a = -25 b = 913
+Because of Coincidence Index or Entropy differ
+-23             79
+Incorrect key: a = -23 b = 79
+Because of Coincidence Index or Entropy differ
+-8              830
+Incorrect key: a = -8 b = 830
+Because of Coincidence Index or Entropy differ
+-6              647
+Incorrect key: a = -6 b = 647
+Because of Coincidence Index or Entropy differ
+-2              250
+Incorrect key: a = -2 b = 250
+Because of Coincidence Index or Entropy differ
+2               194
+Incorrect key: a = 2 b = 194
+Because of Coincidence Index or Entropy differ
+6               479
+Incorrect key: a = 6 b = 479
+Because of Coincidence Index or Entropy differ
+8               353
+Incorrect key: a = 8 b = 353
+Because of Coincidence Index or Entropy differ
+17              253
+Incorrect key: a = 17 b = 253
+Because of Coincidence Index or Entropy differ
+18              342
+Incorrect key: a = 18 b = 342
+Because of Coincidence Index or Entropy differ
+23              396
+Incorrect key: a = 23 b = 396
+Because of Coincidence Index or Entropy differ
+25              213
+Incorrect key: a = 25 b = 213
+Because of Coincidence Index or Entropy differ
+26              814
+Incorrect key: a = 26 b = 814
+Because of Coincidence Index or Entropy differ
+29              777
+Incorrect key: a = 29 b = 777
+Because of Coincidence Index or Entropy differ
+31              625
+Incorrect key: a = 31 b = 625
+Because of Coincidence Index or Entropy differ
+33              721
+Incorrect key: a = 33 b = 721
+Because of Coincidence Index or Entropy differ
+37              45
+Incorrect key: a = 37 b = 45
+Because of Coincidence Index or Entropy differ
+39              172
+Incorrect key: a = 39 b = 172
+Because of Coincidence Index or Entropy differ
+53              69
+Incorrect key: a = 53 b = 69
+Because of Coincidence Index or Entropy differ
+54              923
+Incorrect key: a = 54 b = 923
+Because of Coincidence Index or Entropy differ
+56              740
+Incorrect key: a = 56 b = 740
+Because of Coincidence Index or Entropy differ
+60              343
+Incorrect key: a = 60 b = 343
+Because of Coincidence Index or Entropy differ
+62              222
+Incorrect key: a = 62 b = 222
+Because of Coincidence Index or Entropy differ
+64              287
+Incorrect key: a = 64 b = 287
+Because of Coincidence Index or Entropy differ
+68              572
+Incorrect key: a = 68 b = 572
+Because of Coincidence Index or Entropy differ
+70              699
+Incorrect key: a = 70 b = 699
+Because of Coincidence Index or Entropy differ
+80              342
+Incorrect key: a = 80 b = 342
+Because of Coincidence Index or Entropy differ
+85              489
+Incorrect key: a = 85 b = 489
+Because of Coincidence Index or Entropy differ
+87              306
+Incorrect key: a = 87 b = 306
+Because of Coincidence Index or Entropy differ
+91              870
+Incorrect key: a = 91 b = 870
+Because of Coincidence Index or Entropy differ
+95              814
+Incorrect key: a = 95 b = 814
+Because of Coincidence Index or Entropy differ
+99              138
+Incorrect key: a = 99 b = 138
+Because of Coincidence Index or Entropy differ
+101             265
+Incorrect key: a = 101 b = 265
+Because of Coincidence Index or Entropy differ
+107             191
+Incorrect key: a = 107 b = 191
+Because of Coincidence Index or Entropy differ
+116             55
+Incorrect key: a = 116 b = 55
+Because of Coincidence Index or Entropy differ
+118             833
+Incorrect key: a = 118 b = 833
+Because of Coincidence Index or Entropy differ
+119             287
+Incorrect key: a = 119 b = 287
+Because of Coincidence Index or Entropy differ
+122             436
+Incorrect key: a = 122 b = 436
+Because of Coincidence Index or Entropy differ
+124             67
+Incorrect key: a = 124 b = 67
+Because of Coincidence Index or Entropy differ
+125             483
+Incorrect key: a = 125 b = 483
+Because of Coincidence Index or Entropy differ
+126             380
+Incorrect key: a = 126 b = 380
+Because of Coincidence Index or Entropy differ
+128             507
+Incorrect key: a = 128 b = 507
+Because of Coincidence Index or Entropy differ
+130             665
+Incorrect key: a = 130 b = 665
+Because of Coincidence Index or Entropy differ
+132             792
+Incorrect key: a = 132 b = 792
+Because of Coincidence Index or Entropy differ
+133             928
+Incorrect key: a = 133 b = 928
+Because of Coincidence Index or Entropy differ
+141             904
+Incorrect key: a = 141 b = 904
+Because of Coincidence Index or Entropy differ
+147             582
+Incorrect key: a = 147 b = 582
+Because of Coincidence Index or Entropy differ
+148             36
+Incorrect key: a = 148 b = 36
+Because of Coincidence Index or Entropy differ
+149             399
+Incorrect key: a = 149 b = 399
+Because of Coincidence Index or Entropy differ
+150             814
+Incorrect key: a = 150 b = 814
+Because of Coincidence Index or Entropy differ
+153             2
+Incorrect key: a = 153 b = 2
+Because of Coincidence Index or Entropy differ
+154             546
+Incorrect key: a = 154 b = 546
+Because of Coincidence Index or Entropy differ
+157             907
+Incorrect key: a = 157 b = 907
+Because of Coincidence Index or Entropy differ
+159             104
+Incorrect key: a = 159 b = 104
+Because of Coincidence Index or Entropy differ
+160             152
+Incorrect key: a = 160 b = 152
+Because of Coincidence Index or Entropy differ
+161             231
+Incorrect key: a = 161 b = 231
+Because of Coincidence Index or Entropy differ
+163             358
+Incorrect key: a = 163 b = 358
+Because of Coincidence Index or Entropy differ
+175             713
+Incorrect key: a = 175 b = 713
+Because of Coincidence Index or Entropy differ
+177             720
+Incorrect key: a = 177 b = 720
+Because of Coincidence Index or Entropy differ
+178             148
+Incorrect key: a = 178 b = 148
+Because of Coincidence Index or Entropy differ
+180             926
+Incorrect key: a = 180 b = 926
+Because of Coincidence Index or Entropy differ
+182             553
+Incorrect key: a = 182 b = 553
+Because of Coincidence Index or Entropy differ
+184             529
+Incorrect key: a = 184 b = 529
+Because of Coincidence Index or Entropy differ
+185             949
+Incorrect key: a = 185 b = 949
+Because of Coincidence Index or Entropy differ
+186             563
+Incorrect key: a = 186 b = 563
+Because of Coincidence Index or Entropy differ
+188             473
+Incorrect key: a = 188 b = 473
+Because of Coincidence Index or Entropy differ
+192             758
+Incorrect key: a = 192 b = 758
+Because of Coincidence Index or Entropy differ
+193             186
+Incorrect key: a = 193 b = 186
+Because of Coincidence Index or Entropy differ
+194             885
+Incorrect key: a = 194 b = 885
+Because of Coincidence Index or Entropy differ
+195             494
+Incorrect key: a = 195 b = 494
+Because of Coincidence Index or Entropy differ
+209             675
+Incorrect key: a = 209 b = 675
+Because of Coincidence Index or Entropy differ
+210             5
+Incorrect key: a = 210 b = 5
+Because of Coincidence Index or Entropy differ
+211             492
+Incorrect key: a = 211 b = 492
+Because of Coincidence Index or Entropy differ
+215             95
+Incorrect key: a = 215 b = 95
+Because of Coincidence Index or Entropy differ
+216             607
+Incorrect key: a = 216 b = 607
+Because of Coincidence Index or Entropy differ
+219             39
+Incorrect key: a = 219 b = 39
+Because of Coincidence Index or Entropy differ
+223             324
+Incorrect key: a = 223 b = 324
+Because of Coincidence Index or Entropy differ
+224             186
+Incorrect key: a = 224 b = 186
+Because of Coincidence Index or Entropy differ
+225             451
+Incorrect key: a = 225 b = 451
+Because of Coincidence Index or Entropy differ
+231             501
+Incorrect key: a = 231 b = 501
+Because of Coincidence Index or Entropy differ
+240             241
+Incorrect key: a = 240 b = 241
+Because of Coincidence Index or Entropy differ
+242             58
+Incorrect key: a = 242 b = 58
+Because of Coincidence Index or Entropy differ
+246             622
+Incorrect key: a = 246 b = 622
+Because of Coincidence Index or Entropy differ
+248             439
+Incorrect key: a = 248 b = 439
+Because of Coincidence Index or Entropy differ
+249             824
+Incorrect key: a = 249 b = 824
+Because of Coincidence Index or Entropy differ
+250             279
+Incorrect key: a = 250 b = 279
+Because of Coincidence Index or Entropy differ
+254             851
+Incorrect key: a = 254 b = 851
+Because of Coincidence Index or Entropy differ
+256             17
+Incorrect key: a = 256 b = 17
+Because of Coincidence Index or Entropy differ
+261             625
+Incorrect key: a = 261 b = 625
+Because of Coincidence Index or Entropy differ
+265             745
+Incorrect key: a = 265 b = 745
+Because of Coincidence Index or Entropy differ
+271             768
+Incorrect key: a = 271 b = 768
+Because of Coincidence Index or Entropy differ
+273             585
+Incorrect key: a = 273 b = 585
+Because of Coincidence Index or Entropy differ
+277             188
+Incorrect key: a = 277 b = 188
+Because of Coincidence Index or Entropy differ
+278             452
+Incorrect key: a = 278 b = 452
+Because of Coincidence Index or Entropy differ
+279             315
+Incorrect key: a = 279 b = 315
+Because of Coincidence Index or Entropy differ
+281             132
+Incorrect key: a = 281 b = 132
+Because of Coincidence Index or Entropy differ
+285             417
+Incorrect key: a = 285 b = 417
+Because of Coincidence Index or Entropy differ
+286             871
+Incorrect key: a = 286 b = 871
+Because of Coincidence Index or Entropy differ
+287             544
+Incorrect key: a = 287 b = 544
+Because of Coincidence Index or Entropy differ
+290             280
+Incorrect key: a = 290 b = 280
+Because of Coincidence Index or Entropy differ
+302             826
+Incorrect key: a = 302 b = 826
+Because of Coincidence Index or Entropy differ
+304             151
+Incorrect key: a = 304 b = 151
+Because of Coincidence Index or Entropy differ
+305             752
+Incorrect key: a = 305 b = 752
+Because of Coincidence Index or Entropy differ
+308             715
+Incorrect key: a = 308 b = 715
+Because of Coincidence Index or Entropy differ
+310             842
+Incorrect key: a = 310 b = 842
+Because of Coincidence Index or Entropy differ
+312             659
+Incorrect key: a = 312 b = 659
+Because of Coincidence Index or Entropy differ
+316             944
+Incorrect key: a = 316 b = 944
+Because of Coincidence Index or Entropy differ
+318             110
+Incorrect key: a = 318 b = 110
+Because of Coincidence Index or Entropy differ
+323             625
+Incorrect key: a = 323 b = 625
+Because of Coincidence Index or Entropy differ
+333             861
+Incorrect key: a = 333 b = 861
+Because of Coincidence Index or Entropy differ
+334             315
+Incorrect key: a = 334 b = 315
+Because of Coincidence Index or Entropy differ
+335             678
+Incorrect key: a = 335 b = 678
+Because of Coincidence Index or Entropy differ
+336             318
+Incorrect key: a = 336 b = 318
+Because of Coincidence Index or Entropy differ
+339             281
+Incorrect key: a = 339 b = 281
+Because of Coincidence Index or Entropy differ
+341             98
+Incorrect key: a = 341 b = 98
+Because of Coincidence Index or Entropy differ
+342             328
+Incorrect key: a = 342 b = 328
+Because of Coincidence Index or Entropy differ
+343             225
+Incorrect key: a = 343 b = 225
+Because of Coincidence Index or Entropy differ
+347             510
+Incorrect key: a = 347 b = 510
+Because of Coincidence Index or Entropy differ
+349             637
+Incorrect key: a = 349 b = 637
+Because of Coincidence Index or Entropy differ
+364             427
+Incorrect key: a = 364 b = 427
+Because of Coincidence Index or Entropy differ
+366             244
+Incorrect key: a = 366 b = 244
+Because of Coincidence Index or Entropy differ
+370             808
+Incorrect key: a = 370 b = 808
+Because of Coincidence Index or Entropy differ
+372             98
+Incorrect key: a = 372 b = 98
+Because of Coincidence Index or Entropy differ
+374             752
+Incorrect key: a = 374 b = 752
+Because of Coincidence Index or Entropy differ
+378             76
+Incorrect key: a = 378 b = 76
+Because of Coincidence Index or Entropy differ
+380             203
+Incorrect key: a = 380 b = 203
+Because of Coincidence Index or Entropy differ
+391             155
+Incorrect key: a = 391 b = 155
+Because of Coincidence Index or Entropy differ
+395             954
+Incorrect key: a = 395 b = 954
+Because of Coincidence Index or Entropy differ
+397             771
+Incorrect key: a = 397 b = 771
+Because of Coincidence Index or Entropy differ
+401             930
+Incorrect key: a = 401 b = 930
+Because of Coincidence Index or Entropy differ
+403             501
+Incorrect key: a = 403 b = 501
+Because of Coincidence Index or Entropy differ
+405             318
+Incorrect key: a = 405 b = 318
+Because of Coincidence Index or Entropy differ
+409             603
+Incorrect key: a = 409 b = 603
+Because of Coincidence Index or Entropy differ
+410             186
+Incorrect key: a = 410 b = 186
+Because of Coincidence Index or Entropy differ
+411             730
+Incorrect key: a = 411 b = 730
+Because of Coincidence Index or Entropy differ
+425             100
+0.0578401               4.42374
+Correct key:  a = 425 b = 100
+426             520
+Incorrect key: a = 426 b = 520
+Because of Coincidence Index or Entropy differ
+427             716
+Incorrect key: a = 427 b = 716
+Because of Coincidence Index or Entropy differ
+428             337
+Incorrect key: a = 428 b = 337
+Because of Coincidence Index or Entropy differ
+432             901
+Incorrect key: a = 432 b = 901
+Because of Coincidence Index or Entropy differ
+433             329
+Incorrect key: a = 433 b = 329
+Because of Coincidence Index or Entropy differ
+434             67
+Incorrect key: a = 434 b = 67
+Because of Coincidence Index or Entropy differ
+436             845
+Incorrect key: a = 436 b = 845
+Because of Coincidence Index or Entropy differ
+438             321
+Incorrect key: a = 438 b = 321
+Because of Coincidence Index or Entropy differ
+440             169
+Incorrect key: a = 440 b = 169
+Because of Coincidence Index or Entropy differ
+442             296
+Incorrect key: a = 442 b = 296
+Because of Coincidence Index or Entropy differ
+447             904
+Incorrect key: a = 447 b = 904
+Because of Coincidence Index or Entropy differ
+448             32
+Incorrect key: a = 448 b = 32
+Because of Coincidence Index or Entropy differ
+452             342
+Incorrect key: a = 452 b = 342
+Because of Coincidence Index or Entropy differ
+453             900
+Incorrect key: a = 453 b = 900
+Because of Coincidence Index or Entropy differ
+456             503
+Incorrect key: a = 456 b = 503
+Because of Coincidence Index or Entropy differ
+457             86
+Incorrect key: a = 457 b = 86
+Because of Coincidence Index or Entropy differ
+459             864
+Incorrect key: a = 459 b = 864
+Because of Coincidence Index or Entropy differ
+461             491
+Incorrect key: a = 461 b = 491
+Because of Coincidence Index or Entropy differ
+463             467
+Incorrect key: a = 463 b = 467
+Because of Coincidence Index or Entropy differ
+464             758
+Incorrect key: a = 464 b = 758
+Because of Coincidence Index or Entropy differ
+465             377
+Incorrect key: a = 465 b = 377
+Because of Coincidence Index or Entropy differ
+467             411
+Incorrect key: a = 467 b = 411
+Because of Coincidence Index or Entropy differ
+469             879
+Incorrect key: a = 469 b = 879
+Because of Coincidence Index or Entropy differ
+471             696
+Incorrect key: a = 471 b = 696
+Because of Coincidence Index or Entropy differ
+472             375
+Incorrect key: a = 472 b = 375
+Because of Coincidence Index or Entropy differ
+473             823
+Incorrect key: a = 473 b = 823
+Because of Coincidence Index or Entropy differ
+488             613
+Incorrect key: a = 488 b = 613
+Because of Coincidence Index or Entropy differ
+489             561
+Incorrect key: a = 489 b = 561
+Because of Coincidence Index or Entropy differ
+490             430
+Incorrect key: a = 490 b = 430
+Because of Coincidence Index or Entropy differ
+492             57
+Incorrect key: a = 492 b = 57
+Because of Coincidence Index or Entropy differ
+494             33
+Incorrect key: a = 494 b = 33
+Because of Coincidence Index or Entropy differ
+496             98
+Incorrect key: a = 496 b = 98
+Because of Coincidence Index or Entropy differ
+497             235
+Incorrect key: a = 497 b = 235
+Because of Coincidence Index or Entropy differ
+498             938
+Incorrect key: a = 498 b = 938
+Because of Coincidence Index or Entropy differ
+500             476
+Incorrect key: a = 500 b = 476
+Because of Coincidence Index or Entropy differ
+502             262
+Incorrect key: a = 502 b = 262
+Because of Coincidence Index or Entropy differ
+504             389
+Incorrect key: a = 504 b = 389
+Because of Coincidence Index or Entropy differ
+505             959
+Incorrect key: a = 505 b = 959
+Because of Coincidence Index or Entropy differ
+508             93
+Incorrect key: a = 508 b = 93
+Because of Coincidence Index or Entropy differ
+509             904
+Incorrect key: a = 509 b = 904
+Because of Coincidence Index or Entropy differ
+513             935
+Incorrect key: a = 513 b = 935
+Because of Coincidence Index or Entropy differ
+514             342
+Incorrect key: a = 514 b = 342
+Because of Coincidence Index or Entropy differ
+519             179
+Incorrect key: a = 519 b = 179
+Because of Coincidence Index or Entropy differ
+521             957
+Incorrect key: a = 521 b = 957
+Because of Coincidence Index or Entropy differ
+523             925
+Incorrect key: a = 523 b = 925
+Because of Coincidence Index or Entropy differ
+525             560
+Incorrect key: a = 525 b = 560
+Because of Coincidence Index or Entropy differ
+527             377
+Incorrect key: a = 527 b = 377
+Because of Coincidence Index or Entropy differ
+528             607
+Incorrect key: a = 528 b = 607
+Because of Coincidence Index or Entropy differ
+529             504
+Incorrect key: a = 529 b = 504
+Because of Coincidence Index or Entropy differ
+533             789
+Incorrect key: a = 533 b = 789
+Because of Coincidence Index or Entropy differ
+534             530
+Incorrect key: a = 534 b = 530
+Because of Coincidence Index or Entropy differ
+535             916
+Incorrect key: a = 535 b = 916
+Because of Coincidence Index or Entropy differ
+536             91
+0.0495613               4.59144
+Correct key:  a = 536 b = 91
+550             706
+Incorrect key: a = 550 b = 706
+Because of Coincidence Index or Entropy differ
+551             36
+Incorrect key: a = 551 b = 36
+Because of Coincidence Index or Entropy differ
+552             523
+Incorrect key: a = 552 b = 523
+Because of Coincidence Index or Entropy differ
+556             126
+Incorrect key: a = 556 b = 126
+Because of Coincidence Index or Entropy differ
+558             904
+Incorrect key: a = 558 b = 904
+Because of Coincidence Index or Entropy differ
+560             222
+Incorrect key: a = 560 b = 222
+Because of Coincidence Index or Entropy differ
+564             355
+Incorrect key: a = 564 b = 355
+Because of Coincidence Index or Entropy differ
+566             482
+Incorrect key: a = 566 b = 482
+Because of Coincidence Index or Entropy differ
+570             838
+Incorrect key: a = 570 b = 838
+Because of Coincidence Index or Entropy differ
+581             272
+Incorrect key: a = 581 b = 272
+Because of Coincidence Index or Entropy differ
+583             89
+Incorrect key: a = 583 b = 89
+Because of Coincidence Index or Entropy differ
+587             653
+Incorrect key: a = 587 b = 653
+Because of Coincidence Index or Entropy differ
+589             67
+Incorrect key: a = 589 b = 67
+Because of Coincidence Index or Entropy differ
+591             597
+Incorrect key: a = 591 b = 597
+Because of Coincidence Index or Entropy differ
+595             882
+Incorrect key: a = 595 b = 882
+Because of Coincidence Index or Entropy differ
+597             48
+Incorrect key: a = 597 b = 48
+Because of Coincidence Index or Entropy differ
+612             799
+Incorrect key: a = 612 b = 799
+Because of Coincidence Index or Entropy differ
+614             616
+Incorrect key: a = 614 b = 616
+Because of Coincidence Index or Entropy differ
+618             219
+Incorrect key: a = 618 b = 219
+Because of Coincidence Index or Entropy differ
+619             665
+Incorrect key: a = 619 b = 665
+Because of Coincidence Index or Entropy differ
+620             67
+Incorrect key: a = 620 b = 67
+Because of Coincidence Index or Entropy differ
+622             163
+Incorrect key: a = 622 b = 163
+Because of Coincidence Index or Entropy differ
+625             834
+Incorrect key: a = 625 b = 834
+Because of Coincidence Index or Entropy differ
+626             448
+Incorrect key: a = 626 b = 448
+Because of Coincidence Index or Entropy differ
+627             186
+Incorrect key: a = 627 b = 186
+Because of Coincidence Index or Entropy differ
+628             575
+Incorrect key: a = 628 b = 575
+Because of Coincidence Index or Entropy differ
+638             342
+Incorrect key: a = 638 b = 342
+Because of Coincidence Index or Entropy differ
+643             365
+Incorrect key: a = 643 b = 365
+Because of Coincidence Index or Entropy differ
+645             182
+Incorrect key: a = 645 b = 182
+Because of Coincidence Index or Entropy differ
+649             746
+Incorrect key: a = 649 b = 746
+Because of Coincidence Index or Entropy differ
+651             563
+Incorrect key: a = 651 b = 563
+Because of Coincidence Index or Entropy differ
+653             690
+Incorrect key: a = 653 b = 690
+Because of Coincidence Index or Entropy differ
+656             431
+Incorrect key: a = 656 b = 431
+Because of Coincidence Index or Entropy differ
+657             14
+Incorrect key: a = 657 b = 14
+Because of Coincidence Index or Entropy differ
+659             167
+Incorrect key: a = 659 b = 167
+Because of Coincidence Index or Entropy differ
+671             713
+Incorrect key: a = 671 b = 713
+Because of Coincidence Index or Entropy differ
+674             892
+Incorrect key: a = 674 b = 892
+Because of Coincidence Index or Entropy differ
+675             96
+Incorrect key: a = 675 b = 96
+Because of Coincidence Index or Entropy differ
+676             709
+Incorrect key: a = 676 b = 709
+Because of Coincidence Index or Entropy differ
+680             312
+Incorrect key: a = 680 b = 312
+Because of Coincidence Index or Entropy differ
+682             160
+Incorrect key: a = 682 b = 160
+Because of Coincidence Index or Entropy differ
+683             700
+Incorrect key: a = 683 b = 700
+Because of Coincidence Index or Entropy differ
+684             256
+Incorrect key: a = 684 b = 256
+Because of Coincidence Index or Entropy differ
+688             541
+Incorrect key: a = 688 b = 541
+Because of Coincidence Index or Entropy differ
+690             668
+Incorrect key: a = 690 b = 668
+Because of Coincidence Index or Entropy differ
+696             222
+Incorrect key: a = 696 b = 222
+Because of Coincidence Index or Entropy differ
+700             342
+Incorrect key: a = 700 b = 342
+Because of Coincidence Index or Entropy differ
+705             458
+Incorrect key: a = 705 b = 458
+Because of Coincidence Index or Entropy differ
+707             275
+Incorrect key: a = 707 b = 275
+Because of Coincidence Index or Entropy differ
+711             873
+Incorrect key: a = 711 b = 873
+Because of Coincidence Index or Entropy differ
+712             112
+Incorrect key: a = 712 b = 112
+Because of Coincidence Index or Entropy differ
+713             687
+Incorrect key: a = 713 b = 687
+Because of Coincidence Index or Entropy differ
+715             783
+Incorrect key: a = 715 b = 783
+Because of Coincidence Index or Entropy differ
+719             107
+Incorrect key: a = 719 b = 107
+Because of Coincidence Index or Entropy differ
+721             234
+Incorrect key: a = 721 b = 234
+Because of Coincidence Index or Entropy differ
+730             745
+Incorrect key: a = 730 b = 745
+Because of Coincidence Index or Entropy differ
+736             24
+Incorrect key: a = 736 b = 24
+Because of Coincidence Index or Entropy differ
+737             315
+Incorrect key: a = 737 b = 315
+Because of Coincidence Index or Entropy differ
+738             802
+Incorrect key: a = 738 b = 802
+Because of Coincidence Index or Entropy differ
+742             405
+Incorrect key: a = 742 b = 405
+Because of Coincidence Index or Entropy differ
+745             855
+Incorrect key: a = 745 b = 855
+Because of Coincidence Index or Entropy differ
+746             349
+Incorrect key: a = 746 b = 349
+Because of Coincidence Index or Entropy differ
+750             634
+Incorrect key: a = 750 b = 634
+Because of Coincidence Index or Entropy differ
+751             186
+Incorrect key: a = 751 b = 186
+Because of Coincidence Index or Entropy differ
+752             761
+Incorrect key: a = 752 b = 761
+Because of Coincidence Index or Entropy differ
+766             689
+Incorrect key: a = 766 b = 689
+Because of Coincidence Index or Entropy differ
+767             551
+Incorrect key: a = 767 b = 551
+Because of Coincidence Index or Entropy differ
+768             5
+Incorrect key: a = 768 b = 5
+Because of Coincidence Index or Entropy differ
+769             368
+Incorrect key: a = 769 b = 368
+Because of Coincidence Index or Entropy differ
+773             932
+Incorrect key: a = 773 b = 932
+Because of Coincidence Index or Entropy differ
+775             563
+Incorrect key: a = 775 b = 563
+Because of Coincidence Index or Entropy differ
+776             18
+Incorrect key: a = 776 b = 18
+Because of Coincidence Index or Entropy differ
+777             876
+Incorrect key: a = 777 b = 876
+Because of Coincidence Index or Entropy differ
+779             693
+Incorrect key: a = 779 b = 693
+Because of Coincidence Index or Entropy differ
+781             200
+Incorrect key: a = 781 b = 200
+Because of Coincidence Index or Entropy differ
+783             327
+Incorrect key: a = 783 b = 327
+Because of Coincidence Index or Entropy differ
+784             463
+Incorrect key: a = 784 b = 463
+Because of Coincidence Index or Entropy differ
+786             280
+Incorrect key: a = 786 b = 280
+Because of Coincidence Index or Entropy differ
+798             117
+Incorrect key: a = 798 b = 117
+Because of Coincidence Index or Entropy differ
+800             895
+Incorrect key: a = 800 b = 895
+Because of Coincidence Index or Entropy differ
+801             349
+Incorrect key: a = 801 b = 349
+Because of Coincidence Index or Entropy differ
+802             863
+Incorrect key: a = 802 b = 863
+Because of Coincidence Index or Entropy differ
+804             498
+Incorrect key: a = 804 b = 498
+Because of Coincidence Index or Entropy differ
+807             700
+Incorrect key: a = 807 b = 700
+Because of Coincidence Index or Entropy differ
+808             442
+Incorrect key: a = 808 b = 442
+Because of Coincidence Index or Entropy differ
+811             338
+Incorrect key: a = 811 b = 338
+Because of Coincidence Index or Entropy differ
+812             727
+Incorrect key: a = 812 b = 727
+Because of Coincidence Index or Entropy differ
+813             186
+Incorrect key: a = 813 b = 186
+Because of Coincidence Index or Entropy differ
+814             854
+Incorrect key: a = 814 b = 854
+Because of Coincidence Index or Entropy differ
+820             32
+Incorrect key: a = 820 b = 32
+Because of Coincidence Index or Entropy differ
+828             534
+Incorrect key: a = 828 b = 534
+Because of Coincidence Index or Entropy differ
+829             644
+Incorrect key: a = 829 b = 644
+Because of Coincidence Index or Entropy differ
+831             461
+Incorrect key: a = 831 b = 461
+Because of Coincidence Index or Entropy differ
+833             429
+Incorrect key: a = 833 b = 429
+Because of Coincidence Index or Entropy differ
+835             64
+Incorrect key: a = 835 b = 64
+Because of Coincidence Index or Entropy differ
+836             763
+Incorrect key: a = 836 b = 763
+Because of Coincidence Index or Entropy differ
+837             377
+Incorrect key: a = 837 b = 377
+Because of Coincidence Index or Entropy differ
+839             8
+Incorrect key: a = 839 b = 8
+Because of Coincidence Index or Entropy differ
+842             896
+Incorrect key: a = 842 b = 896
+Because of Coincidence Index or Entropy differ
+843             293
+Incorrect key: a = 843 b = 293
+Because of Coincidence Index or Entropy differ
+845             420
+Incorrect key: a = 845 b = 420
+Because of Coincidence Index or Entropy differ
+854             745
+Incorrect key: a = 854 b = 745
+Because of Coincidence Index or Entropy differ
+860             210
+Incorrect key: a = 860 b = 210
+Because of Coincidence Index or Entropy differ
+862             27
+Incorrect key: a = 862 b = 27
+Because of Coincidence Index or Entropy differ
+866             591
+Incorrect key: a = 866 b = 591
+Because of Coincidence Index or Entropy differ
+870             535
+Incorrect key: a = 870 b = 535
+Because of Coincidence Index or Entropy differ
+874             820
+Incorrect key: a = 874 b = 820
+Because of Coincidence Index or Entropy differ
+876             947
+Incorrect key: a = 876 b = 947
+Because of Coincidence Index or Entropy differ
+881             594
+Incorrect key: a = 881 b = 594
+Because of Coincidence Index or Entropy differ
+891             737
+Incorrect key: a = 891 b = 737
+Because of Coincidence Index or Entropy differ
+893             554
+Incorrect key: a = 893 b = 554
+Because of Coincidence Index or Entropy differ
+897             157
+Incorrect key: a = 897 b = 157
+Because of Coincidence Index or Entropy differ
+899             222
+Incorrect key: a = 899 b = 222
+Because of Coincidence Index or Entropy differ
+901             101
+Incorrect key: a = 901 b = 101
+Because of Coincidence Index or Entropy differ
+905             386
+Incorrect key: a = 905 b = 386
+Because of Coincidence Index or Entropy differ
+907             513
+Incorrect key: a = 907 b = 513
+Because of Coincidence Index or Entropy differ
+908             122
+Incorrect key: a = 908 b = 122
+Because of Coincidence Index or Entropy differ
+922             303
+Incorrect key: a = 922 b = 303
+Because of Coincidence Index or Entropy differ
+924             120
+Incorrect key: a = 924 b = 120
+Because of Coincidence Index or Entropy differ
+928             684
+Incorrect key: a = 928 b = 684
+Because of Coincidence Index or Entropy differ
+930             501
+Incorrect key: a = 930 b = 501
+Because of Coincidence Index or Entropy differ
+932             628
+Incorrect key: a = 932 b = 628
+Because of Coincidence Index or Entropy differ
+935             648
+Incorrect key: a = 935 b = 648
+Because of Coincidence Index or Entropy differ
+936             913
+Incorrect key: a = 936 b = 913
+Because of Coincidence Index or Entropy differ
+938             79
+Incorrect key: a = 938 b = 79
+Because of Coincidence Index or Entropy differ
+943             594
+Incorrect key: a = 943 b = 594
+Because of Coincidence Index or Entropy differ
+944             32
+Incorrect key: a = 944 b = 32
+Because of Coincidence Index or Entropy differ
+953             640
+Incorrect key: a = 953 b = 640
+Because of Coincidence Index or Entropy differ
+955             647
+Incorrect key: a = 955 b = 647
+Because of Coincidence Index or Entropy differ
+959             250
+Incorrect key: a = 959 b = 250
+Because of Coincidence Index or Entropy differ
+Press any key to continue . . .
